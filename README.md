@@ -1,6 +1,6 @@
 # genApiCode
 
-## tod
+## todo
 
 -   尽量兼容 markdown 错误格式
 -   unit test
