@@ -1,0 +1,17 @@
+{
+  "name": "genApi",
+  "version": "1.0.0",
+  "description": "通过ShowDoc生产前端api接口",
+  "main": "index.js",
+  "author": "cxa <920559872@qq.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "gen": "node ./src/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "lodash": "^4.17.15",
+    "markdown-it": "^11.0.0"
+  }
+}
